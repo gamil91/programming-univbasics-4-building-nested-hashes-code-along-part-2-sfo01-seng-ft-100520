@@ -20,13 +20,8 @@ def update_status
       }
    }
 
-  def new_status (hash, hash[key], hash[key][key], hash[key][key][key])
-    hash[]
-    
-  end
-
-
-
+epic_tragedy[:montague][:hero][status] = "dead"
+epic_tragedy[:capulet][:heroine][status] = "dead"
 
   
 end
